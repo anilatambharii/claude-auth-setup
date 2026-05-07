@@ -1,6 +1,6 @@
 # Claude Code Authentication Setup Scripts
 
-Production-grade cross-platform scripts for configuring Claude Code authentication when enterprise subscriptions are not available.
+Robust cross-platform scripts for configuring Claude Code authentication when enterprise subscriptions are not available.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com)
